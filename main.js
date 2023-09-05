@@ -33,7 +33,7 @@ class Calculator {
     }
 
     /*
-        Calls solve(), providing a callback to handle addition and subtractoin problems
+        Calls solve(), providing a callback to handle addition and subtraction problems
         and the correct operators to look for in the expression
     */
     computeAS(expr) {
